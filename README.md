@@ -4,6 +4,7 @@
 <h2>📋 Sobre o projeto</h2>
 <p>Este projeto foi desenvolvido com o objetivo de aplicar conceitos de lógica de programação em JavaScript, manipulação do DOM e design responsivo. 
   O usuário pode definir a quantidade de números desejada, o valor mínimo e o valor máximo, garantindo um sorteio personalizado e preciso.</p>
+<p>Uma aplicação web prática e intuitiva desenvolvida para automatizar o sorteio de números aleatórios dentro de um intervalo definido. Ideal para sorteios rápidos, jogos ou tomadas de decisão.</p>
 
 <p><h3>✦ Principais funcionalidades:</h3></p>
 
