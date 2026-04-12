@@ -8,11 +8,11 @@
 
 <p><h3>✦ Principais funcionalidades:</h3></p>
 
-<p>⇢ Sorteio Customizado: Definição de quantidade, número inicial e número final.</p>
-<p>⇢ Lógica Anti-Repetição: Opção para garantir que os números sorteados sejam únicos dentro da rodada.</p>
-<p>⇢ Interface Dinâmica: Botões que mudam de estado (habilitado/desabilitado) para guiar o fluxo do usuário.</p>
-<p>⇢ Feedback em Tempo Real: Exibição clara dos números sorteados na tela.</p>
-<p>⇢ Reinicialização Instantânea: Botão para limpar campos e resultados, preparando a aplicação para um novo sorteio.</p>
+<p>➥ Sorteio Customizado: Definição de quantidade, número inicial e número final.</p>
+<p>➥ Lógica Anti-Repetição: Opção para garantir que os números sorteados sejam únicos dentro da rodada.</p>
+<p>➥ Interface Dinâmica: Botões que mudam de estado (habilitado/desabilitado) para guiar o fluxo do usuário.</p>
+<p>➥ Feedback em Tempo Real: Exibição clara dos números sorteados na tela.</p>
+<p>➥ Reinicialização Instantânea: Botão para limpar campos e resultados, preparando a aplicação para um novo sorteio.</p>
 
 ## 🖥 Tecnologias utilizadas no projeto
 <div>
