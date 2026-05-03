@@ -1,6 +1,9 @@
 <h1>Sorteador de números</h1>
 <img width="1875" height="958" alt="Image" src="https://github.com/user-attachments/assets/1430ba2e-87a0-4d5e-9b1b-cb5455fc5684" />
-<h2>🖥 Projeto Concluido ✅ </h2> 
+<h2>🖥 Projeto Concluido ✅ </h2>
+
+## 🔗 Link do projeto
+➥ https://brendosukuna-dev.github.io/sorteador-de-numeros/
 
 <h2>📋 Sobre o projeto</h2>
 <p>Este projeto foi desenvolvido com o objetivo de aplicar conceitos de lógica de programação em JavaScript, manipulação do DOM e design responsivo. 
